@@ -1,54 +1,62 @@
-<!-- HEADER BANNER & TYPING ANIMATION -->
+<!-- HEADER BANNER & TYPING EFFECT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=200&section=header&text=Gorkem%20(Feril)&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=190&section=header&text=Gorkem%20(Feril)&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2400&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full-Stack+Systems+%26+Backend+Architect;Zero-Knowledge+Cryptographic+Systems+%26+E2EE;Network+Engineering+%7C+TCP%2FIP+%7C+Packet+Inspection;DevOps%2C+Virtualization+%26+High-Concurrency+Infrastructure;Cyber+Security+Researcher+%26+Linux+Kernel+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+Web+Developer;Cyber+Security+%26+Network+Enthusiast;Zero-Knowledge+%26+E2EE+Cryptographic+Systems;Cloud+Hosting+%26+DevOps+Architect;Linux+Kernel+%26+Server+Administrator" alt="Typing SVG" />
   </a>
+</div>
+
+<br/>
+
+### 🛡️ About & Engineering Focus
+
+- 🔒 **Cyber Security & Applied Cryptography:** Zero-Knowledge architectures, End-to-End Encryption (E2EE - AES-256-GCM / PBKDF2), data integrity protocols, penetration testing, and security auditing.
+- 🌐 **Network Engineering & Protocols:** TCP/IP suite, DNS/rDNS architecture, Reverse Proxying, packet inspection using Wireshark, DDoS mitigation, and secure tunneling.
+- ⚡ **Backend & Systems Architecture:** Modern PHP (Laravel), RESTful API design, Microcaching strategies, Redis, and advanced database indexing (MySQL & PostgreSQL).
+- 🖥️ **Server Infrastructure & DevOps (Cloud / Hosting):** Linux (Debian/Ubuntu Server) administration, Nginx, Apache, Docker containerization, virtualization, VDS/vHost infrastructure management, and server optimization.
+- 🎨 **Frontend & Desktop Engineering:** TypeScript, React, Next.js, Tailwind CSS, and lightweight native desktop client development using Tauri.
+
+---
+
+### 🛠️ Core Technologies & Toolchain
+
+<div align="center">
+  <!-- Languages & Frameworks -->
+  <img src="https://skillicons.dev/icons?i=php,laravel,ts,js,react,nextjs,tailwind,html,css&perline=9" /><br/>
+  <!-- Systems, Networking & Databases -->
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,nginx,apache,docker,redis,mysql,postgres&perline=9" /><br/>
+  <!-- Security, DevOps & Development Tools -->
+  <img src="https://skillicons.dev/icons?i=cloudflare,bash,git,github,postman,vscode,figma,powershell&perline=8" />
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Security-Zero--Knowledge_%7C_E2EE-0284c7?style=for-the-badge&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network-TCP%2FIP_%7C_Wireshark_%7C_DNS-38bdf8?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Architecture-High--Concurrency_Microservices-10b981?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Infrastructure-Linux_Kernel_%7C_Docker_%7C_Nginx-6366f1?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network-TCP%2FIP_%7C_Wireshark-38bdf8?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Infrastructure-Docker_%7C_Nginx_%7C_Linux-10b981?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
 ---
 
-### 🛡️ About & Engineering Focus
+### 📊 GitHub Activity & Contribution Graph
 
-- 🔐 **Zero-Knowledge & Applied Cryptography:** Designing client-side End-to-End Encrypted (E2EE) storage pipelines utilizing `AES-256-GCM`, `PBKDF2`, and length-prefixed binary stream framing for zero-trust data sovereignty.
-- 🌐 **Network Engineering & Protocols:** Packet inspection (`Wireshark`), reverse DNS (`rDNS`), Layer 4/Layer 7 reverse proxy routing, TLS termination, HTTP Range stream chunking, and DDoS mitigation strategies.
-- ⚡ **High-Performance Backend:** Modern `PHP 8.x` / `Laravel` core architectures, asynchronous queue processing, Redis microcaching, and complex database index optimization (`MySQL` / `PostgreSQL`).
-- 🖥️ **Systems & Infrastructure (DevOps):** Bare-metal & virtualized Linux server administration (`Debian`/`Ubuntu`), Web server tuning (`Nginx`/`Apache`), Docker containerization, and automated storage syncing.
-- 💻 **Cross-Platform Client Engineering:** Building memory-safe, lightweight native desktop clients using `Tauri` (`Rust` IPC bridge) paired with `TypeScript`, `React`, and `Tailwind CSS`.
+<p align="center">
+  <!-- Dynamic Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gorkemmk&bg_color=0a0a0c&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 ---
 
-### 🛠️ Core Technology Stack & Toolchain
+### 🌐 Connect & Production Deployments
 
-```text
-┌── [0x01] PROGRAMMING LANGUAGES & FRAMEWORKS
-│   ├── PHP 8.x (Laravel Ecosystem, Sanctum, Eloquent ORM)
-│   ├── TypeScript / JavaScript (ESNext, React.js, Next.js)
-│   └── HTML5 / CSS3 / Tailwind CSS (PostCSS, Modern UI Engine)
-│
-├── [0x02] SECURITY, CRYPTOGRAPHY & NETWORK PROTOCOLS
-│   ├── WebCrypto API (AES-GCM 256-bit, PBKDF2 Key Derivation, SHA-256)
-│   ├── TCP/IP Protocol Suite, HTTP/2, WebSocket, Stream Chunking
-│   ├── Packet Capture & Analysis (Wireshark), Cloudflare Edge Protections
-│   └── 2FA / TOTP RFC 6238 Engine, Role-Based Access Control (RBAC)
-│
-├── [0x03] SERVERS, DEVOPS & CLOUD INFRASTRUCTURE
-│   ├── Linux (Debian, Ubuntu Server), Bash / Shell Automation
-│   ├── Nginx (Microcaching, Reverse Proxy), Apache (vHost / .htaccess)
-│   ├── Docker Containerization, Virtual Dedicated Servers (VDS)
-│   └── Azure Storage Buckets, S3 Compatible Storage Sync
-│
-└── [0x04] DATABASES & IN-MEMORY CACHE
-    ├── MySQL, PostgreSQL (B-Tree Indexing, Query Profiling)
-    ├── Redis (In-Memory Key-Value Caching, Queue Management)
-    └── IndexedDB / Secure Encrypted Local Store
+<div align="center">
+  <a href="https://veribarindir.com.tr" target="_blank">
+    <img src="https://img.shields.io/badge/Production_Platform-veribarindir.com.tr-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/gorkemmk" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-gorkemmk-18181b?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
